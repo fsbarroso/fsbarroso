@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ## 💡 Tecnologias e Ferramentas
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![.NET](https://img.shields.io/badge/dotnet-00599C?style=for-the-badge&logo=.net%2b%2b&logoColor=white)
+![.NET](https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=dotnet%2b%2b&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
 ![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
