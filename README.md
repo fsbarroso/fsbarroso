@@ -14,13 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-# 👋 Olá! Eu sou [Fabricio Barroso]
+# 👋 Olá! Fabricio Barroso aqui!  Seja bem vindo!
 
 ## 🚀 Sobre mim
-💼 Engenheiro de Computação com mais de 24 anos de experiência em TI e Telecom.  
-🔹 Expertise em desenvolvimento backend (C, C++, C#, PHP, PL/SQL, Perl, Rust, Elixir).  
+💼 Engenheiro de Computação formado pela PUC-PR, com mais de 24 anos de experiência em TI e Telecom. 
+🔹 Expertise em desenvolvimento backend (C, C++, C#, .NET, PHP, PL/SQL, Perl, Rust, Elixir). 
 🔹 Experiência em gestão de equipes, projetos de Billing/Mediation e integrações de sistemas.  
 🔹 Interesse em analise e arquitetura de sistemas, análise de negócios (Business Analysis) e desenvolvimento de sistemas backend.
+
 
 ## 📌 Projetos em destaque
 <!-- - [🔗 GranOffers](https://www.granoffers.online) - Página com links para ofertas de produtos físicos.  
@@ -30,12 +31,14 @@ Here are some ideas to get you started:
 ## 💡 Tecnologias e Ferramentas
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![C#](https://img.shields.io/badge/C#-00599C?style=for-the-badge&logo=c#%2b%2b&logoColor=white)
+![.NET](https://img.shields.io/badge/.net-00599C?style=for-the-badge&logo=.net%2b%2b&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
 ![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<!--![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)-->
 
 ## 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)  
